@@ -20,3 +20,11 @@ Pastikan Anda memiliki:
 Clone repository ini ke komputer lokal Anda dengan perintah berikut:
 ```bash
 git clone https://github.com/username/repository-name.git
+
+![image](https://github.com/user-attachments/assets/51261765-d7cf-4538-a366-e7d10adea652)
+
+![image](https://github.com/user-attachments/assets/07419754-4f89-470c-82b8-22cb818b9574)
+
+![image](https://github.com/user-attachments/assets/6bcc8cca-c470-4f81-ab38-24b612174ba1)
+
+![image](https://github.com/user-attachments/assets/9deef01b-1d0d-4512-8b0d-52e6ff70a103)
