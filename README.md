@@ -21,6 +21,7 @@ Clone repository ini ke komputer lokal Anda dengan perintah berikut:
 ```bash
 git clone https://github.com/username/repository-name.git
 
+# Tampilan
 ![image](https://github.com/user-attachments/assets/51261765-d7cf-4538-a366-e7d10adea652)
 
 ![image](https://github.com/user-attachments/assets/07419754-4f89-470c-82b8-22cb818b9574)
